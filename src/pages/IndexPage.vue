@@ -1,6 +1,7 @@
 <template>
   <q-page class="row items-center justify-evenly">
    <q-btn label="Take Picture" @click="takePicture"/>
+
   </q-page>
 </template>
 
